@@ -70,8 +70,6 @@ class AirDangerousBinarySensor(BinarySensorEntity):
             "binary_sensor"
         )
 
-        _LOGGER.error("Translations: %s", translations)
-        _LOGGER.debug("Translations: %s", translations)
         self._state_on = translations["component.ukraine_alerts.binary_sensor.state.on"]
         self._state_off = translations["component.ukraine_alerts.binary_sensor.state.off"]
 
