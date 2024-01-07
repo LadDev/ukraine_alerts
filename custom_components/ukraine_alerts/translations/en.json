@@ -19,7 +19,7 @@
     },
     "binary_sensor": {
         "state": {
-            "on": "Alarm",   
+            "on": "Unsafe",   
             "off": "Safe"
         }
     }

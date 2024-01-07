@@ -19,7 +19,7 @@
     }, 
     "binary_sensor": {
         "state": {
-            "Alarm": "Тривога",
+            "Alarm": "Небезпечно",
             "Safe": "Безпечно"
         }
     }
