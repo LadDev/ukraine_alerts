@@ -1,0 +1,17 @@
+{
+    "domain": "ukraine_alerts",
+    "name": "Ukraine Alerts",
+    "documentation": "https://github.com/LadDev/ukraine_alerts",
+    "issue_tracker": "https://github.com/LadDev/ukraine_alerts/issues",
+    "dependencies": [],
+    "codeowners": ["@LadDev"],
+    "requirements": [],
+    "config_flow": true,
+    "version": "0.1",
+    "translations": [
+      "en",
+      "ru",
+      "uk"
+    ],
+    "iot_class": "cloud_polling"
+  }
